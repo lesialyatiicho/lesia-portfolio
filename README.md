@@ -6,6 +6,8 @@ A focused personal portfolio for Lesia Tsyvienkova, bringing together conversion
 
 [lesia-portfolio-live.vercel.app](https://lesia-portfolio-live.vercel.app)
 
+Production deploys automatically from the `main` branch through Vercel Git integration.
+
 ## Featured Case
 
 ### Aesthetic Clinic Treatment Page Makeover
